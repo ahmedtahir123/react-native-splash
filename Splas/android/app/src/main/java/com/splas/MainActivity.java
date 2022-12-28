@@ -1,4 +1,4 @@
-package com.splas;
+package com.splas.org;
 
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;

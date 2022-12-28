@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "433891150241",
+    "project_id": "splas-50feb",
+    "storage_bucket": "splas-50feb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433891150241:android:a26bc2d8f89945e8d4e3e0",
+        "android_client_info": {
+          "package_name": "com.splas.org"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433891150241-fbs8j3fs2saqc10ahbj6c3non87nmul4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTmfM1uP5OrCqQ-maxmgQxqyjcWJjrX9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "433891150241-fbs8j3fs2saqc10ahbj6c3non87nmul4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

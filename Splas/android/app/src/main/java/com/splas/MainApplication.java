@@ -1,4 +1,4 @@
-package com.splas;
+package com.splas.org;
 
 import android.app.Application;
 import android.content.Context;
