@@ -1,4 +1,4 @@
-package com.splas.newarchitecture.modules;
+package com.splas.org.newarchitecture.modules;
 
 import com.facebook.jni.HybridData;
 import com.facebook.react.ReactPackage;

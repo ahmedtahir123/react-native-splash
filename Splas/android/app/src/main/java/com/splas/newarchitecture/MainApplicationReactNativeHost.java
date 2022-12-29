@@ -1,4 +1,4 @@
-package com.splas.newarchitecture;
+package com.splas.org.newarchitecture;
 
 import android.app.Application;
 import androidx.annotation.NonNull;
@@ -19,9 +19,9 @@ import com.facebook.react.fabric.CoreComponentsRegistry;
 import com.facebook.react.fabric.FabricJSIModuleProvider;
 import com.facebook.react.fabric.ReactNativeConfig;
 import com.facebook.react.uimanager.ViewManagerRegistry;
-import com.splas.BuildConfig;
-import com.splas.newarchitecture.components.MainComponentsRegistry;
-import com.splas.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
+import com.splas.org.BuildConfig;
+import com.splas.org.newarchitecture.components.MainComponentsRegistry;
+import com.splas.org.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
 import java.util.ArrayList;
 import java.util.List;
 
