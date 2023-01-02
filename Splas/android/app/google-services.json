@@ -14,6 +14,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "433891150241-h9djjbjffgmsuh3nsa35qiah4oe718sm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.splas.org",
+            "certificate_hash": "ee0c4928fe841ed7ed92cbe4223027e7b0a228d9"
+          }
+        },
+        {
           "client_id": "433891150241-fbs8j3fs2saqc10ahbj6c3non87nmul4.apps.googleusercontent.com",
           "client_type": 3
         }
